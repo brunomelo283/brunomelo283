@@ -5,7 +5,7 @@ Estou atualmente no 6º termo do curso de Sistemas de Informação e mantenho um
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/bruno-melo-246829187/)
 
-![Bruno Melo Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+![Bruno Melo Status](https://github-readme-stats.vercel.app/api?username=brunomelo283&show_icons=true)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomelo283&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
