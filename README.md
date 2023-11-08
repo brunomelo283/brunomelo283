@@ -10,6 +10,8 @@ Estou atualmente no 6º termo do curso de Sistemas de Informação e mantenho um
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomelo283&hide=javascript,html)
 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?rjoydip" frameborder="0"></iframe>
+
 
 ## Minhas Habilidades em Linguagens de Programação e Tecnologias
 
