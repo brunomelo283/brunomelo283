@@ -8,11 +8,7 @@ Estou atualmente no 6º termo do curso de Sistemas de Informação e mantenho um
 ![Bruno Melo GitHub stats](https://github-readme-stats.vercel.app/api?username=brunomelo283&show_icons=true&theme=dracula)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomelo283&hide=javascript,html)
-
-<div style="display: inline_block">
-    <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?brunomelo283" frameborder="0"></iframe>
-</div>
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomelo283&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Minhas Habilidades em Linguagens de Programação e Tecnologias
 
