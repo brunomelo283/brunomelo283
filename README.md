@@ -7,7 +7,7 @@ Estou atualmente no 6º termo do curso de Sistemas de Informação e mantenho um
 
 ![Bruno Melo Status](https://github-readme-stats.vercel.app/api?username=brunomelo283&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomelo283&size_weight=1&count_weight=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomelo283&size_weight=5&count_weight=1)
 
 
 ## Minhas Habilidades em Linguagens de Programação e Tecnologias
