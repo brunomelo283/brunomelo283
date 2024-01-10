@@ -1,6 +1,6 @@
 ### Olá eu sou o Bruno Melo 👋
 
-Estou atualmente no 6º termo do curso de Sistemas de Informação e mantenho um profundo interesse na área de tecnologia. Ao longo do meu curso, destaco minha afinidade por disciplinas como algoritmos, estrutura de dados e métodos de ordenação. Como estagiário com um ano e meio de experiência, venho dedicando meu tempo ao desenvolvimento web, concentrando-me especialmente no front-end. Meu principal objetivo é continuar aprimorando minhas habilidades e crescer profissionalmente nessa área, contribuindo para projetos desafiadores e inovadores
+Estou atualmente no 7º termo do curso de Sistemas de Informação e mantenho um profundo interesse na área de tecnologia. Ao longo do meu curso, destaco minha afinidade por disciplinas como algoritmos, estrutura de dados e métodos de ordenação. Como estagiário com um ano e meio de experiência, venho dedicando meu tempo ao desenvolvimento web, concentrando-me especialmente no front-end. Meu principal objetivo é continuar aprimorando minhas habilidades e crescer profissionalmente nessa área, contribuindo para projetos desafiadores e inovadores
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/bruno-melo-246829187/)
